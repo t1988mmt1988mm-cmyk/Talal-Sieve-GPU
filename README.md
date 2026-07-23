@@ -1,7 +1,7 @@
-# طلال-سيف-GPU
-أسرع تنفيذ لغربال اراتوستين في العالم باستخدام PyTorch على GPU مجاني
+# طلال-سيف-GPU 
+## أسرع تنفيذ لغربال اراتوستين في العالم باستخدام PyTorch على GPU مجاناً
 
-## الرقم القياسي الجديد 🔥
+## 🔥 الرقم القياسي الجديد
 - **N = 500,000,000**
 - **الوقت = 0.957 ثانية فقط**
 - **عدد الاعداد الاولية = 26,355,867**
@@ -10,12 +10,14 @@
 اسرع 1000x من التنفيذ على CPU العادي
 
 ## الدليل بالفيديو
-[[Watch the Proof](https://img.youtube.com/vi/byBpzO8hQDw/0.jpg)](https://youtube.com/shorts/byBpzO8hQDw)
 
-**رابط الفيديو:** https://youtube.com/shorts/byBpzO8hQDw
+[شاهد الدليل](https://youtube.com/shorts/byBpz08hQDw)
+
+**رابط الفيديو:**
+https://youtube.com/shorts/byBpz08hQDw
 
 ## الكود
-الملف: `talal_sieve_gpu_v4.5.py`  
+**الملف:** `talal_sieve_gpu_v4.5.py`
 يشتغل مباشرة على Google Colab مع تفعيل GPU
 
 ## المتطلبات
